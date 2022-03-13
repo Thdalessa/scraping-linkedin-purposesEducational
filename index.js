@@ -1,5 +1,6 @@
 const puppeteer = require("puppeteer");
 const { EMAIL, PASSWORD } = require("./config");
+// IMPORTANTE: realizar npm install y correr el programa con el comando "node index.js"
 // IMPORTANTE: la aplicacion es con fines didacticos y es solo un demo por lo que no funciona perfectamente.
 // IMPORTANTE: La funcion esta probada solo en el navegador GoogleChrome
 
