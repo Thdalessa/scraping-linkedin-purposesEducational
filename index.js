@@ -11,7 +11,7 @@ const password = PASSWORD;
 // puede modificar esta variable por la empresa que quiera buscar anteponiendo siempre la palabra recruiter
 // ejemplo "recruiter Accenture"
 
-const recruiterCompany = "recruiter CoderHouse";
+const recruiterCompany = "recruiter Accenture";
 
 (async function () {
   //puede cambiar el parametro headless a true para que no se habra el explorador
